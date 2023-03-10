@@ -28,7 +28,7 @@ git clone git@github.com:marissa424/Professional-Portfolio.git
 ```
 
 ## Deployed Application
-https://marissa424.github.io/Professional-Portfolio/
+https://marissa424.github.io/Professional-Portfolio
 
 ## Credits
 
